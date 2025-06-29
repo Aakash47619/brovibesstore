@@ -32,7 +32,7 @@ export function Contact() {
                   <div>
                     <h3 className="font-semibold text-white mb-2">Store Location</h3>
                     <p className="text-white/70">
-                      Ramgram-2, Parasi
+                      Ramgram-2, Parasi,
                       <br />
                       Nawalparasi District
                       <br />
@@ -101,7 +101,7 @@ export function Contact() {
                       <div className="text-center">
                         <MapPin className="h-12 w-12 text-white/60 mx-auto mb-4" />
                         <p className="text-white/80 font-medium">Click to Load Interactive Map</p>
-                        <p className="text-sm text-white/60 mt-2">123 Fashion Street, Downtown District</p>
+                        <p className="text-sm text-white/60 mt-2">Bro vibes store, Nawalparasi District</p>
                       </div>
                     </div>
                   ) : (

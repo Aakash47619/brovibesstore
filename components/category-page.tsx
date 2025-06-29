@@ -32,7 +32,7 @@ export function CategoryPage({ category, slug }: CategoryPageProps) {
 
   return (
     <div className="min-h-screen relative">
-      <div className="absolute inset-0 bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900"></div>
+      <div className="absolute inset-0 bg-gradient-to-br from-blue-900/40 via-teal-900 to-blue-900/40"></div>
       <div className="absolute inset-0 backdrop-blur-sm"></div>
 
       <div className="relative z-10">
@@ -52,7 +52,7 @@ export function CategoryPage({ category, slug }: CategoryPageProps) {
                 </Button>
               </div>
               <div className="flex-shrink-0">
-                <img src="/bro-vibes-logo.png" alt="Bro Vibes" className="h-10 w-auto" />
+                <img src="/bro vibes logo white.png" alt="Bro Vibes" className="h-10 w-auto" />
               </div>
               <div className="w-24"></div> {/* Spacer for centering */}
             </div>

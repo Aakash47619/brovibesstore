@@ -64,7 +64,7 @@
     @apply border-border;
   }
   body {
-    @apply bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-foreground min-h-screen;
+    @apply bg-gradient-to-br from-green-900 via-teal-900 to-green-900 text-foreground min-h-screen;
     background-attachment: fixed;
   }
 }

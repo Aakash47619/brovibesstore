@@ -28,10 +28,31 @@ export function Footer() {
               vibe.
             </p>
             <div className="flex space-x-4">
-              <Facebook className="h-6 w-6 text-white/60 hover:text-white cursor-pointer transition-colors" />
-              <Instagram className="h-6 w-6 text-white/60 hover:text-white cursor-pointer transition-colors" />
-              <Twitter className="h-6 w-6 text-white/60 hover:text-white cursor-pointer transition-colors" />
-            </div>
+  <a
+    href="https://www.facebook.com/profile.php?id=61575278971813"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Facebook"
+  >
+    <Facebook className="h-6 w-6 text-white/60 hover:text-white cursor-pointer transition-colors" />
+  </a>
+  <a
+    href="https://www.instagram.com/brovibes48/"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Instagram"
+  >
+    <Instagram className="h-6 w-6 text-white/60 hover:text-white cursor-pointer transition-colors" />
+  </a>
+  <a
+    href="https://twitter.com/yourhandle"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Twitter"
+  >
+    <Twitter className="h-6 w-6 text-white/60 hover:text-white cursor-pointer transition-colors" />
+  </a>
+</div>
           </div>
 
           {/* Quick Links */}

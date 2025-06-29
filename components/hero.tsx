@@ -25,7 +25,7 @@ export function Hero() {
             <div className="relative">
               <div className="backdrop-blur-md bg-white/10 rounded-3xl p-4 border border-white/20 shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/13632832/pexels-photo-13632832.jpeg"
+                  src="/brovibes hero.png"
                   alt="Fashion Model"
                   className="rounded-2xl shadow-xl w-full"
                 />
