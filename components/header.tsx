@@ -56,7 +56,9 @@ export function Header() {
 
           {/* Shopping Bag */}
           <div className="hidden md:flex items-center">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfphSHp54wDSGSX4bLqWkPRQTl22fBa9dsQwATryrl0qFUYbQ/viewform?embedded=true" target="_blank" rel="noopener noreferrer">
             <ShoppingBag className="h-6 w-6 text-white/80 hover:text-white cursor-pointer transition-colors" />
+            </a>
           </div>
 
           {/* Mobile menu button */}
